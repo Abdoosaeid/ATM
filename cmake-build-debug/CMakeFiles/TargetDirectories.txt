@@ -1,0 +1,3 @@
+D:/projcts.cpp/ATM/cmake-build-debug/CMakeFiles/New_folder.dir
+D:/projcts.cpp/ATM/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projcts.cpp/ATM/cmake-build-debug/CMakeFiles/rebuild_cache.dir
